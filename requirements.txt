@@ -13,6 +13,7 @@ IPython
 scikit-learn
 xgboost
 lightgbm
+catboost
 
 # --- Outils pratiques ---
 tqdm
